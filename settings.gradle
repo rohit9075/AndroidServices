@@ -1,0 +1,2 @@
+include ':startedservice'
+rootProject.name='AndroidServices'
